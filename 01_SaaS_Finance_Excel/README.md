@@ -1,5 +1,7 @@
 # 💼 Financial & Risk Performance Dashboard
 
+https://www.youtube.com/watch?v=YdulBgikHA0
+
 ## 🎯 The Business Problem
 A multi-sector enterprise was struggling to track their operational efficiency and liquidity across various divisions (Healthcare, IT Services, Retail, Logistics, etc.). The finance team spent days manually consolidating spreadsheets to compare Revenue against Operational Expenses (OPEX). Furthermore, leadership lacked real-time visibility into outstanding invoices (Receivable Days) and upcoming cash flow risks.
 
