@@ -1,5 +1,7 @@
 # 🛒 E-Commerce Customer Retention & Cohort Analytics
 
+https://www.youtube.com/watch?v=LreFrbON8MU
+
 ## 🎯 The Business Problem
 A growing e-commerce brand was successfully driving initial sales but struggling with long-term profitability. They had thousands of rows of transactional data but no visibility into customer loyalty. The Chief Marketing Officer (CMO) needed to know: *Are our customers coming back to buy again, or are they one-time purchasers?*
 
