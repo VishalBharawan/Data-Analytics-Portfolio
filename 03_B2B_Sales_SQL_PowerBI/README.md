@@ -1,5 +1,7 @@
 # 📊 B2B Enterprise Sales Pipeline Architecture
 
+https://www.youtube.com/watch?v=sI2r-bGxZ1A
+
 ## 🏢 The Business Problem
 A European B2B enterprise was tracking its sales pipeline across disconnected flat files (Deals, Companies, Contacts, and Sales Teams). This fragmentation made it impossible for the VP of Sales to see real-time win rates, track regional quota attainment across EMEA and the UK, or forecast end-of-month revenue. 
 
